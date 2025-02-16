@@ -1,8 +1,6 @@
 # web-search-based-chatbot
-# 🤖 AI Chat Assistant
 
 ## 📌 Overview
-### 📝 Description
 This AI Chat Assistant is designed to provide users with an interactive and intelligent chatbot experience. By leveraging state-of-the-art AI models, it enables seamless conversation while fetching real-time web search results when necessary. The assistant is built using `Streamlit` and `Langchain`, ensuring a responsive and dynamic user interface.
 This project is a **Streamlit-based AI Chat Assistant** that integrates `Langchain`, `Ollama`, and `DuckDuckGoSearchRun` to provide a dynamic conversational experience. It is designed to maintain context, perform web searches when necessary, and generate intelligent responses.
 
